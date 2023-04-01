@@ -11,7 +11,7 @@
 #fonts{
     font-family: 'Source Serif Pro', serif; font-weight: 900;
     border-radius: 25px;
-    background-color:hsl(113, 39%, 37%);
+    background-color:#1471ac;
     padding-left: 10px;
     color: white;
     width: 50%;
@@ -22,10 +22,12 @@
 p{
     margin-left: 10px;
     margin-bottom: 15px;
-    font-family: 'Source Serif Pro', serif; font-weight: 900;
+    font-family: 'Dancing Script';
+    font-weight: bold;
+    /* font-weight: 900; */
 }
 b{
-    color: hsl(113, 39%, 37%);
+    color: #1471ac;
     margin-left: 10px;
 }
 #progress{
@@ -35,7 +37,7 @@ b{
 
 }
 i{
-    color: hsl(113, 39%, 37%);
+    color: #1471ac;
     margin-right: 5px;
 }
 #icon-2{
@@ -44,14 +46,14 @@ i{
 }
 
 #Accord{
-background-color: hsl(113, 39%, 37%);
+background-color: #1471ac;
 color: white;
 
 font-family: 'Source Serif Pro', serif; font-weight: 900;
 }
 #head{
-    color: hsl(113, 54%, 30%);
-    font-family: 'Source Serif Pro', serif; font-weight: 900;
+    color: #1471ac;
+    font-family: 'Dancing Script'; font-weight: 900;
     margin-bottom: 20px;
     margin-top: 30px;
     
@@ -67,7 +69,7 @@ img{
 #nav:hover{
     text-decoration: underline;
     color: white;
-    background-color: hsl(113, 54%, 30%);
+    background-color: #1471ac
 }
 #Accord:hover{
     text-decoration: underline;
@@ -76,7 +78,7 @@ img{
 
 }
 #client{
-    color: hsl(113, 54%, 30%);
+    color: #1471ac;
     font-weight: 900;
 }
 
@@ -90,7 +92,7 @@ img{
 
 a:link, a:visited {
     /* background-color: hsl(113, 54%, 30%); */
-    color: hsl(113, 54%, 30%);
+    color: #1471ac;
     /* padding: 14px 25px; */
     text-align: center;
     text-decoration: none;
